@@ -3,5 +3,8 @@
   "version": "0.0.0",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "@changesets/cli": "^2.16.0"
+  }
 }
